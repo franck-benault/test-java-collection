@@ -43,7 +43,6 @@
 				<artifactId>brownies-collections</artifactId>
 				<version>0.9.12</version>
 			</dependency>
-
 		</dependencies>
 	</dependencyManagement>
 	<build>
@@ -66,5 +65,6 @@
 		<module>03-GSCollection</module>
 		<module>04-MagicWerk</module>
 		<module>00-old-solutions</module>
+		<module>05-HugeCollections</module>
 	</modules>
 </project>
