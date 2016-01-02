@@ -1,7 +1,5 @@
 package net.franckbenault.testcollection;
 
-import static org.junit.Assert.*;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -89,4 +87,5 @@ public class ListMemoryTestCase {
 		System.out.println("03 list of String end (with size, with bytes encoding)");
 		showMemory();
 	}
+
 }
