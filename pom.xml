@@ -65,6 +65,5 @@
 		<module>03-GSCollection</module>
 		<module>04-MagicWerk</module>
 		<module>00-old-solutions</module>
-		<module>05-HugeCollections</module>
 	</modules>
 </project>
